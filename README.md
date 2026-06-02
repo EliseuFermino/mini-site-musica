@@ -1,5 +1,11 @@
 # Mini Site Musical
 
+## Site publicado
+
+O projeto está disponível no GitHub Pages:
+
+https://eliseufermino.github.io/mini-site-musica/
+
 Projeto de estudo criado para praticar Git, GitHub e fluxo profissional de desenvolvimento usando tarefas, branches, commits, Pull Requests e revisão de código.
 
 ## Objetivo do projeto
